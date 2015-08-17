@@ -1,0 +1,3 @@
+function mainModule() {
+	alert("hahaha");
+}
