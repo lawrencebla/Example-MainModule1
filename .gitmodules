@@ -1,3 +1,0 @@
-[submodule "src/submodule"]
-	path = src/submodule
-	url = https://github.com/lawrencebla/Example-SubModule.git
